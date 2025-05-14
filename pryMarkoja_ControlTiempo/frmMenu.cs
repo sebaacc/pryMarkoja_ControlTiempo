@@ -13,8 +13,8 @@ namespace pryMarkoja_ControlTiempo
 {
     public partial class frmLogin : Form
     {
-        private System.Diagnostics.Stopwatch miCronometro = new System.Diagnostics.Stopwatch();
-        private bool cronometroActivo = false;
+        Timer tiempoTranscurrido = new Timer();
+        int iTiempo = 0;
 
         public frmLogin()
         {
@@ -28,10 +28,12 @@ namespace pryMarkoja_ControlTiempo
 
         private void tTiempoAplicacion_Tick(object sender, EventArgs e)
         {
-            TimeSpan tiempoTranscurrido = miCronometro.Elapsed;
-            string tiempoFormateado = string.Format("{0:00}:{1:00}:{2:00}",
-                tiempoTranscurrido.Hours, tiempoTranscurrido.Minutes, tiempoTranscurrido.Seconds);
-            lblTiempoStatus.Text = tiempoFormateado;
+            
+            //string tiempoFormateado = string.Format("{0:00}:{1:00}:{2:00}",
+            //    tiempoTranscurrido.Hours, tiempoTranscurrido.Minutes, tiempoTranscurrido.Seconds);
+
+            iTiempo++;
+            lblTiempoContador.Text = iTiempo.ToString();
         }
 
         private void btnTrabajo_Click(object sender, EventArgs e)
@@ -41,17 +43,18 @@ namespace pryMarkoja_ControlTiempo
 
         private void activarCronometro()
         {
-            if (cronometroActivo == false)
+            if (btnTrabajo.Text == "Trabajo")
             {
-                cronometroActivo = true;
-                tTiempoAplicacion.Start();
-                btnTrabajo.Text = "Finalizar";
-            } else
+                timerTiempoAplicacion.Start();
+                btnTrabajo.Text = "Finalizar"; 
+                btnTrabajo.BackColor = Color.Honeydew;
+            }
+            else
             {
-                cronometroActivo = false;
-                tTiempoAplicacion.Start();
+                timerTiempoAplicacion.Stop();
                 btnTrabajo.Text = "Trabajo";
             }
+
         }
     }
 }

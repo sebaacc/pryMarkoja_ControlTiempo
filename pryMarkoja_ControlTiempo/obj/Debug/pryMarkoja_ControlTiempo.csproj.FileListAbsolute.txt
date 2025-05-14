@@ -8,3 +8,13 @@ D:\Escritorio\pryMarkoja_ControlTiempo\pryMarkoja_ControlTiempo\obj\Debug\pryMar
 D:\Escritorio\pryMarkoja_ControlTiempo\pryMarkoja_ControlTiempo\obj\Debug\pryMarkoja_ControlTiempo.csproj.CoreCompileInputs.cache
 D:\Escritorio\pryMarkoja_ControlTiempo\pryMarkoja_ControlTiempo\obj\Debug\pryMarkoja_ControlTiempo.exe
 D:\Escritorio\pryMarkoja_ControlTiempo\pryMarkoja_ControlTiempo\obj\Debug\pryMarkoja_ControlTiempo.pdb
+E:\Escritorio\pryMarkoja_ControlTiempo\pryMarkoja_ControlTiempo\bin\Debug\pryMarkoja_ControlTiempo.exe.config
+E:\Escritorio\pryMarkoja_ControlTiempo\pryMarkoja_ControlTiempo\bin\Debug\pryMarkoja_ControlTiempo.exe
+E:\Escritorio\pryMarkoja_ControlTiempo\pryMarkoja_ControlTiempo\bin\Debug\pryMarkoja_ControlTiempo.pdb
+E:\Escritorio\pryMarkoja_ControlTiempo\pryMarkoja_ControlTiempo\obj\Debug\pryMarkoja_ControlTiempo.csproj.AssemblyReference.cache
+E:\Escritorio\pryMarkoja_ControlTiempo\pryMarkoja_ControlTiempo\obj\Debug\pryMarkoja_ControlTiempo.frmLogin.resources
+E:\Escritorio\pryMarkoja_ControlTiempo\pryMarkoja_ControlTiempo\obj\Debug\pryMarkoja_ControlTiempo.Properties.Resources.resources
+E:\Escritorio\pryMarkoja_ControlTiempo\pryMarkoja_ControlTiempo\obj\Debug\pryMarkoja_ControlTiempo.csproj.GenerateResource.cache
+E:\Escritorio\pryMarkoja_ControlTiempo\pryMarkoja_ControlTiempo\obj\Debug\pryMarkoja_ControlTiempo.csproj.CoreCompileInputs.cache
+E:\Escritorio\pryMarkoja_ControlTiempo\pryMarkoja_ControlTiempo\obj\Debug\pryMarkoja_ControlTiempo.exe
+E:\Escritorio\pryMarkoja_ControlTiempo\pryMarkoja_ControlTiempo\obj\Debug\pryMarkoja_ControlTiempo.pdb

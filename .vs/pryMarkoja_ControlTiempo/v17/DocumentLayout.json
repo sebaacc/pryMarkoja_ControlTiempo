@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Escritorio\\pryMarkoja_ControlTiempo\\",
+  "WorkspaceRootPath": "E:\\Escritorio\\pryMarkoja_ControlTiempo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1350439-C6FD-44E8-9C65-1E7D82BE487E}|pryMarkoja_ControlTiempo\\pryMarkoja_ControlTiempo.csproj|d:\\escritorio\\prymarkoja_controltiempo\\prymarkoja_controltiempo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1350439-C6FD-44E8-9C65-1E7D82BE487E}|pryMarkoja_ControlTiempo\\pryMarkoja_ControlTiempo.csproj|solutionrelative:prymarkoja_controltiempo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1350439-C6FD-44E8-9C65-1E7D82BE487E}|pryMarkoja_ControlTiempo\\pryMarkoja_ControlTiempo.csproj|e:\\escritorio\\prymarkoja_controltiempo\\prymarkoja_controltiempo\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1350439-C6FD-44E8-9C65-1E7D82BE487E}|pryMarkoja_ControlTiempo\\pryMarkoja_ControlTiempo.csproj|solutionrelative:prymarkoja_controltiempo\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1350439-C6FD-44E8-9C65-1E7D82BE487E}|pryMarkoja_ControlTiempo\\pryMarkoja_ControlTiempo.csproj|d:\\escritorio\\prymarkoja_controltiempo\\prymarkoja_controltiempo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1350439-C6FD-44E8-9C65-1E7D82BE487E}|pryMarkoja_ControlTiempo\\pryMarkoja_ControlTiempo.csproj|solutionrelative:prymarkoja_controltiempo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F1350439-C6FD-44E8-9C65-1E7D82BE487E}|pryMarkoja_ControlTiempo\\pryMarkoja_ControlTiempo.csproj|e:\\escritorio\\prymarkoja_controltiempo\\prymarkoja_controltiempo\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1350439-C6FD-44E8-9C65-1E7D82BE487E}|pryMarkoja_ControlTiempo\\pryMarkoja_ControlTiempo.csproj|solutionrelative:prymarkoja_controltiempo\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Escritorio\\pryMarkoja_ControlTiempo\\pryMarkoja_ControlTiempo\\Form1.cs",
-              "RelativeDocumentMoniker": "pryMarkoja_ControlTiempo\\Form1.cs",
-              "ToolTip": "D:\\Escritorio\\pryMarkoja_ControlTiempo\\pryMarkoja_ControlTiempo\\Form1.cs",
-              "RelativeToolTip": "pryMarkoja_ControlTiempo\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABfAAAA",
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "E:\\Escritorio\\pryMarkoja_ControlTiempo\\pryMarkoja_ControlTiempo\\frmMenu.cs",
+              "RelativeDocumentMoniker": "pryMarkoja_ControlTiempo\\frmMenu.cs",
+              "ToolTip": "E:\\Escritorio\\pryMarkoja_ControlTiempo\\pryMarkoja_ControlTiempo\\frmMenu.cs",
+              "RelativeToolTip": "pryMarkoja_ControlTiempo\\frmMenu.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAUwDYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T16:09:18.862Z",
               "EditorCaption": ""
@@ -36,11 +40,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Escritorio\\pryMarkoja_ControlTiempo\\pryMarkoja_ControlTiempo\\Form1.cs",
-              "RelativeDocumentMoniker": "pryMarkoja_ControlTiempo\\Form1.cs",
-              "ToolTip": "D:\\Escritorio\\pryMarkoja_ControlTiempo\\pryMarkoja_ControlTiempo\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "pryMarkoja_ControlTiempo\\Form1.cs [Dise\u00F1o]",
+              "Title": "frmMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Escritorio\\pryMarkoja_ControlTiempo\\pryMarkoja_ControlTiempo\\frmMenu.cs",
+              "RelativeDocumentMoniker": "pryMarkoja_ControlTiempo\\frmMenu.cs",
+              "ToolTip": "E:\\Escritorio\\pryMarkoja_ControlTiempo\\pryMarkoja_ControlTiempo\\frmMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "pryMarkoja_ControlTiempo\\frmMenu.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T16:09:17.354Z",
               "EditorCaption": " [Dise\u00F1o]"
