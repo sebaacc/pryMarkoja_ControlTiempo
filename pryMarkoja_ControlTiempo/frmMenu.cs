@@ -13,7 +13,6 @@ namespace pryMarkoja_ControlTiempo
 {
     public partial class frmLogin : Form
     {
-        Timer tiempoTranscurrido = new Timer();
         int iTiempo = 0;
 
         public frmLogin()

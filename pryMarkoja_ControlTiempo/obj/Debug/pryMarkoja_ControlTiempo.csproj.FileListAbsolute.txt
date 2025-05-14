@@ -18,3 +18,4 @@ E:\Escritorio\pryMarkoja_ControlTiempo\pryMarkoja_ControlTiempo\obj\Debug\pryMar
 E:\Escritorio\pryMarkoja_ControlTiempo\pryMarkoja_ControlTiempo\obj\Debug\pryMarkoja_ControlTiempo.csproj.CoreCompileInputs.cache
 E:\Escritorio\pryMarkoja_ControlTiempo\pryMarkoja_ControlTiempo\obj\Debug\pryMarkoja_ControlTiempo.exe
 E:\Escritorio\pryMarkoja_ControlTiempo\pryMarkoja_ControlTiempo\obj\Debug\pryMarkoja_ControlTiempo.pdb
+E:\Escritorio\pryMarkoja_ControlTiempo\pryMarkoja_ControlTiempo\obj\Debug\pryMarkoja_ControlTiempo.frmTimerMouse.resources
